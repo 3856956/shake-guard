@@ -15,7 +15,7 @@
 
 ## 使用
 
-测试安装包：[下载 0.1.1 APK](downloads/shake-guard-0.1.1-debug.apk)。请登录有权访问此私有仓库的账号后下载。
+测试安装包：[直接下载 0.1.1 APK](https://github.com/3856956/shake-guard/releases/download/v0.1.1/shake-guard-0.1.1-debug.apk)。[发布说明与校验文件](https://github.com/3856956/shake-guard/releases/tag/v0.1.1)公开可访问。
 
 1. 安装 `shake-guard-0.1.1-debug.apk`（Android 8.0 及以上）。这是测试签名版本，适合试用，不是商店发布包。
 2. 打开应用，添加“广告所在的来源应用 → 被打开的目标应用”规则，默认仅记录。可从启动应用列表选择，或手填包名。
