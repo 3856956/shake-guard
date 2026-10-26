@@ -1,0 +1,1 @@
+2d6370acce4c4987ccdb61ecb946af4ae2755ae934756c254f49258f6c2402dc  shake-guard-0.1.1-debug.apk
